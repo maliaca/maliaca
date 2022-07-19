@@ -1,7 +1,5 @@
-👋 Hi, I’m @maliaca. I am the Deputy Director for the Data Science Institute at the University of Arizona.
-Learn more about the Data Science Institute at https://datascience.arizona.edu.
-
-I’m interested in building data science capacity for reserchers and departments across our university.
+I serve as the Deputy Director for the Data Science Institute at the University of Arizona.
+Learn more about the UArizona Data Science Institute at https://datascience.arizona.edu. We focus on building data science capacity throughout our university to enable our faculty, researchers and students to ask and answer bigger questions.
  
 
 
