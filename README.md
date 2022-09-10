@@ -1,5 +1,6 @@
-I serve as the Deputy Director for the Data Science Institute at the University of Arizona.
-Learn more about the UArizona Data Science Institute at https://datascience.arizona.edu. We focus on building data science capacity throughout our university to enable our faculty, researchers and students to ask and answer bigger questions.
+Deputy Director | Data Science Institute | University of Arizona.
+
+The Data Science Institute (https://datascience.arizona.edu) at the University of Arizona aims to build data science capacity throughout our university community to enable our faculty, researchers and students to engage with important research questions.
  
 
 
